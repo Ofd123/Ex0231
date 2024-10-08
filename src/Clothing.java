@@ -23,3 +23,4 @@ public class Clothing extends Product
         return(super.getPrice());
     }
 }
+

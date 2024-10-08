@@ -23,3 +23,4 @@ public class Book extends Product
         return(super.getPrice());
     }
 }
+
